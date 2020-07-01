@@ -1,0 +1,64 @@
+body {
+  background-color: hsl(229, 57%, 11%);
+  font-family: "Raleway", sans-serif;
+}
+
+.BottomImage {
+  margin: 0;
+  padding: 0;
+}
+
+.bottomImageDiv {
+  margin: 0;
+  position: absolute;
+}
+
+.LeftBox {
+  background-color: hsl(228, 56%, 26%);
+  width: 24.625rem;
+  height: 13.4375rem;
+  padding: 1.875rem;
+  border-radius: 0.625rem 6.25rem 0.625rem 0.625rem;
+  margin-top: 18.75rem;
+  margin-left: 31.25rem;
+  position: absolute;
+  z-index: 1040;
+}
+
+.a7a {
+  display: inline-block;
+  margin-top: 1.25rem;
+}
+
+.logo {
+  display: block;
+}
+
+img {
+  margin: 0.625rem;
+  vertical-align: bottom;
+}
+
+.BgPaddingDocument {
+  background-color: hsl(229, 57%, 11%);
+  padding: 0.9375rem;
+  padding-right: 1.125rem;
+  padding-left: 1.125rem;
+  border-radius: 0.5rem;
+}
+
+.BgPaddingFolder {
+  background-color: hsl(229, 57%, 11%);
+  padding: 1.0625rem;
+  border-radius: 0.5rem;
+}
+
+.BgPaddingUpload {
+  background-color: hsl(229, 57%, 11%);
+  padding: 1.1875rem;
+  padding-right: 0.9375rem;
+  padding-left: 0.9375rem;
+  padding-top: 0.9375rem;
+  border-radius: 0.5rem;
+  width: 3.75rem;
+}
